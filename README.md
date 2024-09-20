@@ -7,7 +7,9 @@
 
   ##
 
-[![My Skills](https://skillicons.dev/icons?i=ae,arduino,blender,bootstrap,c,cpp,css,django,figma,git,html,ai,java,js,laravel,mysql,ps,php,postgres,pr,py,react,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,django,git,java,laravel,mysql,php,postgres,py,react)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,html,css,js,bootstrap,figma,wordpress,blender)](https://skillicons.dev)
 
   ##
  
