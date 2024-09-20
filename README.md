@@ -7,7 +7,7 @@
 
   ##
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,arduino,blender,bootstrap,c,cpp,css,django,figma,git,html,ai,java,js,laravel,mysql,ps,php,postgres,pr,py,react,wordpress)](https://skillicons.dev)
 
   ##
  
