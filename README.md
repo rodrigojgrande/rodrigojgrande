@@ -1,8 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E03636&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E03636&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+Name+is+Rodrigo+Grande;I%27m+26+years+old;I+am+from+Po%C3%A7os+de+Caldas,+MG;I+study+Computer+Science+at+PUC)](https://git.io/typing-svg) 
+
 <a href="https://github.com/rodrigojgrande/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigojgrande&theme=monokai&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigojgrande&show_icons=true&rank_icon=github&title_color=0E3636&text_color=E6E6E6&bg_color=1A1A1C" />
 </a>
 <a href="https://github.com/rodrigojgrande/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigojgrande&theme=monokai&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigojgrande&title_color=0E3636&text_color=E6E6E6&bg_color=1A1A1C&layout=compact&langs_count=8&card_width=320" />
 </a>
 
   ##
@@ -27,3 +31,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E03636&height=120&section=footer"/>
