@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E03636&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+Name+is+Rodrigo+Grande;I%27m+26+years+old;I+am+from+Po%C3%A7os+de+Caldas,+MG;I+study+Computer+Science+at+PUC)](https://git.io/typing-svg) 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigojgrande&show_icons=true&count_private=true&hide_border=true&title_color=0e3636&icon_color=0e3636&text_color=e6e6e6&bg_color=1a1a1c" alt="Rodrigo Grande github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojgrande&layout=compact&hide_border=true&title_color=0e3636&text_color=e6e6e6&bg_color=1a1a1c" />
+</div>
+
 <a href="https://github.com/rodrigojgrande/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigojgrande&show_icons=true&rank_icon=github&title_color=0E3636&text_color=E6E6E6&bg_color=1A1A1C" />
 </a>
