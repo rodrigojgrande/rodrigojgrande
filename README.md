@@ -9,16 +9,16 @@
 
 [![Rodrigo Grande's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigojgrande&bg_color=1a1a1c&color=e03636&line=E34848&point=cc3131&area=true&hide_border=true)](https://github.com/rodrigojgrande/github-readme-activity-graph)
 
-  ##
+##
 ### Technologies I've already worked on
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,django,git,java,mysql,php,postgres,py,react)](https://skillicons.dev)
 
 ### My Designer Side
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma,html,css,js,bootstrap,wordpress,blender)](https://skillicons.dev)
-  ##
+##
  
 <div> 
-  <h3 align="left">Connect with me!</h3>
+  <h3 align="left">Connect with me</h3>
  <a href = "mailto:rodrigojgrande@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rodrigojgrande" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EE2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigojgrande" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,7 +32,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigojgrande/rodrigojgrande/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rodrigojgrande/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <!--
 <div align="center">
