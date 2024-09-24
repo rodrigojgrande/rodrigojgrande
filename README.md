@@ -10,12 +10,11 @@
 [![Rodrigo Grande's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigojgrande&bg_color=1a1a1c&color=e03636&line=E34848&point=cc3131&area=true&hide_border=true)](https://github.com/rodrigojgrande/github-readme-activity-graph)
 
   ##
-<h3 align="left">Technologies I've already worked on</h3>
+### Technologies I've already worked on
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,django,git,java,mysql,php,postgres,py,react)](https://skillicons.dev)
 
-<h3 align="left">My Designer Side</h3>
+### My Designer Side
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma,html,css,js,bootstrap,wordpress,blender)](https://skillicons.dev)
-
   ##
  
 <div> 
