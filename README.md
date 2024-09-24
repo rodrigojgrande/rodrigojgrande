@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E03636&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E03636&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+Name+is+Rodrigo+Grande;I%27m+26+years+old;I+am+from+Po%C3%A7os+de+Caldas,+MG;I+study+Computer+Science+at+PUC)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E03636&size=35&center=true&vCenter=true&width=1000&lines=Hello+Friend;My+Name+is+Rodrigo+Grande;I%27m+26+years+old;I+am+from+Po%C3%A7os+de+Caldas,+Brazil;I+study+Computer+Science+at+PUC)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigojgrande&show_icons=true&count_private=true&hide_border=true&title_color=e03636&icon_color=e03636&text_color=e6e6e6&bg_color=1a1a1c&rank_icon=github&" alt="Rodrigo Grande github stats" /> 
@@ -18,8 +18,9 @@
   ##
  
 <div> 
+  <h3 align="left">Connect with me!</h3>
  <a href = "mailto:rodrigojgrande@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rodrigojgrande" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rodrigojgrande" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E03636?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigojgrande" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/@rodrigojgrande" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
