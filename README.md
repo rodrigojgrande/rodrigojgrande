@@ -10,6 +10,14 @@
 [![Rodrigo Grande's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigojgrande&bg_color=1a1a1c&color=e03636&line=E34848&point=cc3131&area=true&hide_border=true)](https://github.com/rodrigojgrande/github-readme-activity-graph)
 
 ##
+### About Me
+📚 Computer Science student at PUC - Poços de Caldas. 
+
+👨‍💻 I am currently doing an internship at the university working with system development.
+
+❤ I love creating things, helping people, I'm passionate about design and a big technology enthusiast!
+
+##
 ### Technologies I've already worked on
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,django,git,java,mysql,php,postgres,py,react)](https://skillicons.dev)
 
