@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojgrande&layout=compact&hide_border=true&title_color=e03636&text_color=e6e6e6&bg_color=1a1a1c" />
 </div>
 
+[![Rodrigo Grande's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigojgrande&bg_color=e03636&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/rodrigojgrande/github-readme-activity-graph)
+
   ##
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,django,git,java,laravel,mysql,php,postgres,py,react)](https://skillicons.dev)
