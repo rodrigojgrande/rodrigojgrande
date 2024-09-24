@@ -7,13 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojgrande&layout=compact&hide_border=true&title_color=e03636&text_color=e6e6e6&bg_color=1a1a1c" />
 </div>
 
-<a href="https://github.com/rodrigojgrande/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigojgrande&show_icons=true&rank_icon=github&title_color=0E3636&text_color=E6E6E6&bg_color=1A1A1C" />
-</a>
-<a href="https://github.com/rodrigojgrande/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigojgrande&title_color=0E3636&text_color=E6E6E6&bg_color=1A1A1C&layout=compact&langs_count=8&card_width=320" />
-</a>
-
   ##
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,django,git,java,laravel,mysql,php,postgres,py,react)](https://skillicons.dev)
@@ -36,5 +29,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rodrigojgrande}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E03636&height=120&section=footer"/>
