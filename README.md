@@ -13,9 +13,7 @@
 ### About Me
 📚 Computer Science student at PUC - Poços de Caldas. 
 
-👨‍💻 I am currently doing an internship at the university working with system development.
-
-❤ I love creating things, helping people, I'm passionate about design and a big technology enthusiast!
+❤ Passionate about technology, design, and innovation!
 
 ##
 ### Technologies I've already worked on
